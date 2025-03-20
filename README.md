@@ -1,6 +1,6 @@
 
 
-# Aether AI - Chat Application
+# Aether AI - Chat Bot
 
 Aether AI is a full-stack chat application that integrates Google OAuth for authentication, MongoDB for data storage, and Google's Gemini AI for generating text and image-based responses. The application allows users to create, save, and manage chat sessions with AI-powered responses.
 
