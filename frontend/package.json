@@ -1,0 +1,49 @@
+{
+  "name": "qelebet",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "lint": "eslint .",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@google/generative-ai": "^0.23.0",
+    "@react-oauth/google": "^0.12.1",
+    "@vitejs/plugin-react-swc": "^3.8.0",
+    "axios": "^1.8.1",
+    "highlight.js": "^11.11.1",
+    "imagekitio-react": "^4.2.0",
+    "jwt-decode": "^4.0.0",
+    "katex": "^0.16.21",
+    "lucide-react": "^0.477.0",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "react-just-parallax": "^3.1.16",
+    "react-markdown": "^10.0.1",
+    "react-router-dom": "^7.2.0",
+    "rehype-highlight": "^7.0.2",
+    "rehype-katex": "^7.0.1",
+    "rehype-mathjax": "^7.1.0",
+    "remark-gfm": "^4.0.1",
+    "remark-math": "^6.0.0",
+    "sanitize-html": "^2.14.0",
+    "scroll-lock": "^2.1.5",
+    "vite": "^6.2.0"
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.21.0",
+    "@types/react": "^19.0.10",
+    "@types/react-dom": "^19.0.4",
+    "@vitejs/plugin-react": "^4.3.4",
+    "autoprefixer": "^10.4.20",
+    "eslint": "^9.21.0",
+    "eslint-plugin-react-hooks": "^5.1.0",
+    "eslint-plugin-react-refresh": "^0.4.19",
+    "globals": "^15.15.0",
+    "postcss": "^8.5.3",
+    "tailwindcss": "^3.4.17"
+  }
+}
